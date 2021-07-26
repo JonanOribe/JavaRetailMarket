@@ -1,5 +1,6 @@
 package com.example.JavaRetailMarket.models;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public class User {
@@ -58,5 +59,16 @@ public class User {
 
     public void setUserType(int userType) {
         this.userType = userType;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                ", phone='" + phone + '\'' +
+                ", email='" + email + '\'' +
+                ", birthday=" + birthday +
+                ", userType=" + userType +
+                '}';
     }
 }
