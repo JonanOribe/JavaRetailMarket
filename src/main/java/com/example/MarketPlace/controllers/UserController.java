@@ -1,6 +1,6 @@
-package com.example.JavaRetailMarket.controllers;
+package com.example.MarketPlace.controllers;
 
-import com.example.JavaRetailMarket.models.User;
+import com.example.MarketPlace.models.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

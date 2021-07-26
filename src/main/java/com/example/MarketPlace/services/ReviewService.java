@@ -1,4 +1,4 @@
-package com.example.JavaRetailMarket.services;
+package com.example.MarketPlace.services;
 
 import org.springframework.stereotype.Service;
 

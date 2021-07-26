@@ -1,4 +1,4 @@
-package com.example.JavaRetailMarket;
+package com.example.MarketPlace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

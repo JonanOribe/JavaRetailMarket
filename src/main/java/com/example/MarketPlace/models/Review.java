@@ -1,4 +1,4 @@
-package com.example.JavaRetailMarket.models;
+package com.example.MarketPlace.models;
 
 public class Review {
     private String title;
