@@ -1,12 +1,12 @@
 package com.example.JavaRetailMarket.models;
 
-public class Accesories {
+public class Accesory {
     private int accessoriesType;
 
-    public Accesories() {
+    public Accesory() {
     }
 
-    public Accesories(int accessoriesType) {
+    public Accesory(int accessoriesType) {
         this.accessoriesType = accessoriesType;
     }
 
