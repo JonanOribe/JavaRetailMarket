@@ -1,4 +1,4 @@
-# JavaRetailMarket
+# MarketPlace
 
 <h3>:construction: Work environment</h3>
 <li> We install <b> Java 1.8 </b> </li>
